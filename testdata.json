@@ -1,0 +1,14 @@
+{
+	"test_non_overlapping_template_matching_test":
+	{
+		"B": "001",
+		"M": 10,
+		"N": 2
+	},
+	"test_overlapping_template_matching_test": {
+		"B": "11",
+		"K": 2,
+		"M": 10,
+		"N": 5
+	}
+}
