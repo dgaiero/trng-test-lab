@@ -1,14 +1,38 @@
 {
-	"test_non_overlapping_template_matching_test":
+	"test_003_non_overlapping_template_matching_test":
 	{
-		"B": "001",
-		"M": 10,
-		"N": 2
+		"B": "000000001",
+		"M": 125000,
+		"N": 8
 	},
-	"test_overlapping_template_matching_test": {
-		"B": "11",
-		"K": 2,
-		"M": 10,
-		"N": 5
+	"test_004_overlapping_template_matching_test": {
+		"B": "111111111",
+		"K": 5,
+		"M": 1032,
+		"N": 968,
+		"pi": [
+			0.364091,
+			0.185659,
+			0.139381,
+			0.100571,
+			0.070432,
+			0.139865
+		]
+	},
+	"test_005_linear_complexity": {
+		"M": 1000,
+		"K": 6,
+		"pi": [
+			0.010417,
+			0.03125,
+			0.125,
+			0.5,
+			0.25,
+			0.0625,
+			0.020833
+		]
+	},
+	"test_006_approximate_entropy": {
+		"m": 2
 	}
 }
